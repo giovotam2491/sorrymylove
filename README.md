@@ -81,7 +81,7 @@
       <img src="https://i.pinimg.com/736x/e0/44/7b/e0447befaa08f05c45d7e0493a61eb4d.jpg" alt="Sorry Again GIF"> <!-- Giữ nguyên GIF -->
       <p>"Hãy bắt đầu lại từ đoạn mà hai đứa mình hiểu lầm nhé!"</p>
 
-      <img src="https://media.tenor.com/AYNX_KOAhBMAAAAi/love-kisses.gif" alt="Love GIF"> <!-- Giữ nguyên GIF -->
+      <img src="https://media.tenor.com/WjlNymHcH3oAAAAi/love-bear-lovedina.gif" alt="Love GIF"> <!-- Giữ nguyên GIF -->
       <h1>iloveyousomuch love Tuyết Băng <3</h1>
    </div>
 </body>
