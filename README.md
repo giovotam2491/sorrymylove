@@ -17,7 +17,7 @@
 
       .content {
          background: https://media.tenor.com/m2G79TK4HmAAAAAd/cat.gif;
-         width: 50%;
+         width: 40%;
          padding: 40px;
          margin: 100px auto;
       }
@@ -51,6 +51,6 @@
    <p style="color: rgba(255, 255, 255, 0.986)">HẪY BẮT ĐẦU LẠI TỪ ĐOẠN MÀ HAI ĐỨA MÌNH HIỂU LẦM NHÉ!</p>
 
    <img src="https://media.tenor.com/AYNX_KOAhBMAAAAi/love-kisses.gif">
-   <h1 style="font-family: Times New Roman">iloveyousomuch love Tuyết Băng <3</h1>
+   <h1 style="font-family: Times New Roman">iloveyousomuch love Mwaapsss</h1>
 </body>
 </html>
