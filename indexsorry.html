@@ -12,7 +12,7 @@
    </script>
    <style>
       body {
-         background-image: url(https://media.tenor.com/m2G79TK4HmAAAAAd/cat.gif);
+         background-image: url(https://i.makeagif.com/media/9-23-2015/2Br394.gif);
          background-size: cover;
          background-attachment: fixed;
          margin: 0;
@@ -55,31 +55,18 @@
 </head>
 <body>
    <div class="content">
-      <img src="https://media.tenor.com/kLOK6znCDZ8AAAAj/animal-cute.gif" alt="Cute Animal GIF">
+      <img src="https://i.makeagif.com/media/9-23-2015/2Br394.gif" alt="Sorry GIF">
       <p>“Anh biết em đã rất tức giận và anh đang cảm nhận rất rõ cơn giận ấy trong từng lời nói (hành động) của em. Hãy để cho anh hiểu nhiều hơn nữa về em...”.</p>
 
-      <img src="https://media.tenor.com/SFy5Za0DyMEAAAAi/erm-fingers.gif" alt="Sorry GIF">
+      <img src="https://i.makeagif.com/media/9-23-2015/2Br394.gif" alt="Sorry GIF">
       <p>"Những điều mà anh đã làm hoặc nói đã gây khó chịu hoặc hiểu lầm gì đó cho em, cho phép anh được diễn đạt lại..."</p>
 
-      <img src="https://media.tenor.com/ZugYIZezc7AAAAAi/excuses-so-sorry.gif" alt="Apology GIF">
-      <p>"Lúc quen em anh rất ít khi bày tỏ tình cảm với em, nhưng mọi hành động đều chứng minh anh thương em rất rất nhiều. Anh sợ em bị tổn thương, sợ em buồn hay khóc, sợ em bị thương hay đau chỗ nào và sợ nhất là khi trái tim em thuộc về người khác."</p>
+      <img src="https://i.makeagif.com/media/9-23-2015/2Br394.gif" alt="Apology GIF">
+      <p>"Lúc quen em anh rất ít khi bày tỏ tình cảm với em, nhưng mọi hành động đều chứng minh anh thương em rất rất nhiều..."</p>
 
-      <img src="https://media.tenor.com/FIsjXzK4M2EAAAAC/sorry-crying.gif" alt="Crying GIF">
-      <p>"Biết rõ rằng giọt nước mắt ngày ấy chỉ giữ em được một chút thôi, nhưng vẫn cố chấp để được ở bên cạnh em lâu hơn. Thật sự cái bóng của em quá lớn, nhưng mỗi lần nhìn thấy, nhớ lại, nghe kể tim anh như hẫng đi một nhịp..."</p>
+      <img src="https://i.makeagif.com/media/9-23-2015/2Br394.gif" alt="Crying GIF">
+      <p>"Biết rõ rằng giọt nước mắt ngày ấy chỉ giữ em được một chút thôi, nhưng vẫn cố chấp để được ở bên cạnh em lâu hơn..."</p>
 
-      <img src="https://media.tenor.com/uPkyf-K4TCQAAAAi/sorry-sad.gif" alt="Sad GIF">
-      <p>"Lúc đó anh đã không biết rằng việc mình làm đã gây tổn thương em sâu sắc. Anh không nên sử dụng logic của mình để đánh giá cảm xúc của em. Anh nhận ra rằng em là người quan trọng đối với anh..."</p>
-
-      <img src="https://media.tenor.com/nwTv2k0woIQAAAAC/sorry.gif" alt="Sorry GIF">
-      <p>"Hay là tụi mình bỏ qua hết quá khứ đi, mình về với nhau. Anh sẽ trưởng thành hơn, em sẽ dịu dàng hơn. Chúng mình sẽ sống cuộc sống của hai ta thôi, sẽ không thêm ai nữa..."</p>
-
-      <img src="https://media.tenor.com/YU4wJBoLkHIAAAAC/im-sorry-bow.gif" alt="Bow GIF">
-      <p>“Mối quan hệ này luôn quan trọng đối với anh, vậy nên bình tĩnh và chúng ta dần tháo gỡ những khúc mắc trong lòng nhau nhé.”</p>
-
-      <img src="https://media.tenor.com/JwohIGQ97REAAAAC/sorry.gif" alt="I'm Sorry GIF">
-      <p>HÃY BẮT ĐẦU LẠI TỪ ĐOẠN MÀ HAI ĐỨA MÌNH HIỂU LẦM NHÉ!</p>
-
-      <img src="https://media.tenor.com/AYNX_KOAhBMAAAAi/love-kisses.gif" alt="Love Kisses GIF">
       <h1>iloveyousomuch love Tuyết Băng <3</h1>
    </div>
 </body>
