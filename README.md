@@ -1,4 +1,4 @@
-<Bức thư xin lỗi của anh>
+<!DOCTYPE html>
 <html>
 <head>
    <title>Sorry by: Patrick</title>
@@ -29,13 +29,15 @@
          margin: 40px auto;
          border-radius: 15px;
          color: white;
+         overflow: hidden; /* Đảm bảo nội dung không bị tràn ra ngoài */
       }
 
       .content img {
-         width: 400px; /* Điều chỉnh kích thước ảnh GIF */
-         height: auto; /* Để giữ tỷ lệ của ảnh GIF */
+         width: 100%; /* Đặt chiều rộng ảnh bằng 100% chiều rộng của vùng chứa */
+         max-width: 400px; /* Kích thước tối đa của ảnh là 400px */
+         height: auto; /* Để giữ tỷ lệ của ảnh */
          margin: 0 auto 20px;
-         border: none; /* Loại bỏ viền */
+         display: block; /* Đảm bảo ảnh được căn giữa */
       }
 
       p {
