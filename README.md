@@ -40,6 +40,13 @@
          display: block; /* Đảm bảo ảnh được căn giữa */
       }
 
+      h2 {
+         font-family: 'Times New Roman', serif;
+         font-size: 28px;
+         color: #ffcccc;
+         margin-bottom: 20px;
+      }
+
       p {
          color: rgba(255, 255, 255, 0.9);
          font-size: 18px;
@@ -57,6 +64,9 @@
 </head>
 <body>
    <div class="content">
+
+      <h2>Bức thư Xin Lỗi Đặc Biệt</h2>
+
       <img src="https://i.pinimg.com/originals/09/ee/12/09ee12103b65e81233aaf4aef99d90db.gif" alt="Cute Animal GIF"> <!-- Giữ nguyên GIF -->
       <p>“Anh biết em đã rất tức giận và anh đang cảm nhận rất rõ cơn giận ấy trong từng lời nói (hành động) của em. Hãy để cho anh hiểu nhiều hơn nữa về em...”.</p>
 
@@ -79,7 +89,7 @@
       <p>Hay là tụi mình bỏ qua hết quá khứ đi, mình về với nhau. Anh sẽ trưởng thành hơn, em sẽ dịu dàng hơn. Chúng mình sẽ sống cuộc sống của hai ta thôi, sẽ không thêm ai nữa...</p>
 
       <img src="https://i.pinimg.com/originals/8a/76/f4/8a76f48f80f375adcead9476529a23c5.gif" alt="Apology GIF"> <!-- Giữ nguyên GIF -->
-      <p>“Mối quan hệ này luôn quan trọng đối với anh, vậy nên bình tĩnh và chúng ta dần tháo gỡ những khúc mắc trong lòng nhau nhé.”</p>
+      <p>“Mối quan hệ này luôn quan trọng đối với anh/em, vậy nên bình tĩnh và chúng ta dần tháo gỡ những khúc mắc trong lòng nhau nhé.”</p>
 
       <img src="https://i.pinimg.com/736x/e0/44/7b/e0447befaa08f05c45d7e0493a61eb4d.jpg" alt="Sorry Again GIF"> <!-- Giữ nguyên GIF -->
       <p>"HẪY BẮT ĐẦU LẠI TỪ ĐOẠN MÀ HAI ĐỨA MÌNH HIỂU LẦM NHÉ!"</p>
