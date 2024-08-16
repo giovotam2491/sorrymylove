@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>Sorry by: Patrick</title>
+   <title>Sorry by: YourLover</title>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <script type="text/javascript">
       alert("Anh thật sự rất yêu em.");
@@ -43,7 +43,7 @@
       h2 {
          font-family: 'Times New Roman', serif;
          font-size: 28px;
-         color: #ffcccc;
+         color: #ff8b8b;
          margin-bottom: 20px;
       }
 
@@ -56,7 +56,7 @@
 
       h1 {
          font-family: 'Times New Roman', serif;
-         color: white;
+         color: rgb(152, 0, 253);
          font-size: 24px;
          margin-top: 20px;
       }
@@ -94,7 +94,7 @@
       <img src="https://i.pinimg.com/736x/e0/44/7b/e0447befaa08f05c45d7e0493a61eb4d.jpg" alt="Sorry Again GIF"> <!-- Giữ nguyên GIF -->
       <p>"HẪY BẮT ĐẦU LẠI TỪ ĐOẠN MÀ HAI ĐỨA MÌNH HIỂU LẦM NHÉ!"</p>
 
-      <img src="https://media.tenor.com/WjlNymHcH3oAAAAi/love-bear-lovedina.gif" alt="Love GIF"> <!-- Giữ nguyên GIF -->
+      <img src="https://i.pinimg.com/originals/11/19/7a/11197a3675cfc9afbcca6c94ea2557b1.jpg" alt="Love GIF"> <!-- Giữ nguyên GIF -->
       <h1>iloveyousomuch love Tuyết Băng <3</h1>
    </div>
 </body>
